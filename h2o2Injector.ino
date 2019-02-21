@@ -221,8 +221,8 @@ void BackInTheBoxMemory(){
   pcs.iMatchSlot = 9 ;
   pcs.iFinish = 0 ;
 
-  sprintf(nwc.npassword,"cheegh5S\0");
-  sprintf(nwc.nssid,"WLAN-PLUMMER\0");
+  sprintf(nwc.npassword,"XXXXXXXX\0");
+  sprintf(nwc.nssid,"XXXXXXXX\0");
   
 }
 
